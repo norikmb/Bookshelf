@@ -5,5 +5,5 @@ There are reading records
 おすすめされた本の一覧です。
 
 ## Release
-https://github.com/nori3636/Bookshelf/releases
+https://github.com/nori3636/Bookshelf/releases 
 読了した本の一覧です
