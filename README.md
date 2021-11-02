@@ -2,6 +2,7 @@
 There are reading records
 
 ## Isues
+https://github.com/nori3636/Bookshelf/issues 
 おすすめされた本の一覧です。
 
 ## Release
